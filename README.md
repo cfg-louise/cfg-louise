@@ -7,8 +7,8 @@
 
 - 👩🏻 About me: I'm a non-stem background career changer trying to get into full-stack development as I love the problem solving aspect and the ability to exert creativity
 - 🌱 I’m currently learning to code with Code First Girls on the Autumn cohort Full-Stack Degree stream
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Aside from coding, I love reading crime fiction, pilates & digital art! 
+
 
 
 ## Connect with me  
